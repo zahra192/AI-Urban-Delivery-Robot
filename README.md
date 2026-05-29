@@ -99,12 +99,6 @@ Each algorithm is evaluated on:
 
 ---
 
-## 📚 Course
-
-**Artificial Intelligence** — BS Computer Science  
-Phase 1 Project
-
----
 
 ## 🛠️ Tech Stack
 
